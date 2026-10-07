@@ -1,3 +1,5 @@
+![Uploading Screenshot 2026-10-07 at 11.28.50 PM.png…]()
+![Uploading Screenshot 2026-10-07 at 11.28.44 PM.png…]()
 <p align="center">
   <img src="docs/icon.png" width="120" alt="InspoBox icon" />
 </p>
