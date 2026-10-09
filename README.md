@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/icon.png" width="120" alt="InspoBox icon" />
+  <img src="icon.png" width="120" alt="InspoBox icon" />
 </p>
 
 <h1 align="center">InspoBox</h1>
