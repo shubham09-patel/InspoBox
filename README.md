@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="docs/screenshot-board.png" width="780" alt="Inspiration board" />
+  <img src="InspoBox/docs/Screenshot 2026-10-07 at 11.28.44 PM.png" width="780" alt="Inspiration board" />
 </p>
 
 ## Why I built this
